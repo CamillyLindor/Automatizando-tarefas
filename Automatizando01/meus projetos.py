@@ -1,3 +1,5 @@
+#esse programa retira as informações de uma tabela e cadastra em um sistema
+
 import subprocess
 
 import pyautogui
